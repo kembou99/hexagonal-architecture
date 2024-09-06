@@ -1,0 +1,12 @@
+spring:
+   application:
+       name: hexagonal-architecture
+server:
+  port: 7700
+
+
+
+
+
+
+
